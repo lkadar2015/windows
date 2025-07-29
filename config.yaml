@@ -1,8 +1,8 @@
 name: "Windows inside a docker image"
 description: "Windows inside a docker image"
-version: "1.0.0"
+version: "latest"
 slug: "hello_world"
 init: false
 arch:
   - amd64
-image: https://hub.docker.com/r/dockurr/windows:latest
+image: https://hub.docker.com/r/dockurr/windows

@@ -5,7 +5,6 @@ slug: "hello_world"
 init: false
 arch:
   - amd64
-image: hub.docker.com/r/dockurr/windows
 ports:
   8006/tcp: 8006
   8006/udp: 8006

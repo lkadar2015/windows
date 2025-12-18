@@ -1,6 +1,6 @@
 name: "Windows inside a docker image"
 description: "Windows inside a docker image"
-version: "5.01.1"
+version: "5.01.2"
 slug: "hello_world"
 init: false
 arch:

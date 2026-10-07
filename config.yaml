@@ -1,6 +1,6 @@
 name: "Windows inside a docker image"
 description: "Windows inside a docker image"
-version: "5.02.2"
+version: "5.02.3"
 slug: "hello_world"
 init: false
 arch:
@@ -10,3 +10,4 @@ ports:
   8006/udp: 8006
   3389/tcp: 3389
   3389/udp: 3389
+full_access: true
